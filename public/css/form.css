@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(154, 168, 170);
+    color: rgb(3, 1, 8);
+}
+.heading{
+    background-color: rgb(107, 86, 182);
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+    font-size: larger;
+    color: rgb(9, 1, 14);
+    font-weight: lighter;
+}
+form{
+    margin-top: 50px;
+    margin-left: 30px;
+    color: rgb(15, 15, 14);
+}
+.contacts{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.contactitems{
+    color: rgb(61, 55, 55);
+}
+.editdelete{
+    padding-right: 10px;
+}
+h2{
+    text-align: center;
+}
+input{
+    width: 95%;
+    height: 40px;
+    color: black;
+}
+
+.userinput{
+    float: left;
+    width: 40%;
+    border-right: 0.1px black solid;
+    height: 100vh;
+}
+
+
+.userlist{
+    float:right;
+    width: 60%;
+}
+
+
+label{
+    font-family: comic Arial, Helvetica, sans-serif ;
+    font-weight: lighter;
+    color: black;
+}
